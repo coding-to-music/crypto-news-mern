@@ -19,8 +19,8 @@
 ## Overview
 
 
-![screenshot](https://i.ibb.co/zHKkvcR/overview-image-uploader.jpg)
-![User Profile](https://i.ibb.co/LvKH1dF/image-uploader-overview2.jpg)
+![screenshot](https://i.ibb.co/qySQC6H/cryptonews.jpg)
+![Bot Profile](https://i.ibb.co/m5Hf7WD/cryptocurrency-hero.jpg)
 
 
 

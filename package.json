@@ -1,7 +1,7 @@
 {
   "name": "crypto-bot",
   "version": "1.0.0",
-  "description": "This is a crypto info bot",
+  "description": "This is a crypto news bot",
   "main": "bot.mjs",
   "scripts": {
     "start": "node bot.mjs"

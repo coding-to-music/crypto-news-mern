@@ -14,6 +14,12 @@ by Thomas Sentre https://github.com/Thomas-Max99
 
 https://github.com/Thomas-Max99/Crypto-News
 
+Using crypto data from:
+
+https://cryptocompare.com
+
+https://min-api.cryptocompare.com/
+
 <!-- Please update value in the {}  -->
 
 <h1 align="center">Crypto News</h1>
@@ -145,6 +151,10 @@ heroku create crypto-news-mern
 
 ```java
 heroku config:set
+
+# https://cryptocompare.com
+# https://min-api.cryptocompare.com/
+
 
 heroku config:set MONGODB_URI="mongodb+srv://<userid>:<password>@cluster0.zadqe.mongodb.net/crypto-news-mern?retryWrites=true&w=majority"
 heroku config:set PASSWORD="something-secret"

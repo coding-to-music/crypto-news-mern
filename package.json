@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "description": "This is a crypto news bot",
   "main": "bot.mjs",
+  "engines": {
+    "node": "16.x"
+  },
+  "cacheDirectories": [
+    "node_modules"
+  ],
   "scripts": {
-    "start": "node bot.mjs"
+    "start": "node bot.mjs",
+    "deploy": "git add . && git commit -m Heroku && git push && git push heroku && heroku logs --tail --remote heroku"
   },
   "keywords": [
     "Crypto",
